@@ -10455,6 +10455,94 @@
     {
       "symbol": "func_001CF9C0",
       "source": "src/overlays/descriptor_15/func_001CF9C0.c"
+    },
+    {
+      "symbol": "func_00048a68",
+      "source": "src/lib/func_00048a68.c"
+    },
+    {
+      "symbol": "func_00048af0",
+      "source": "src/lib/func_00048af0.c"
+    },
+    {
+      "symbol": "func_00051400",
+      "source": "src/lib/func_00051400.c"
+    },
+    {
+      "symbol": "func_0005c1d0",
+      "source": "src/lib/func_0005c1d0.c"
+    },
+    {
+      "symbol": "func_0006f47c",
+      "source": "src/overlays/descriptor_01/func_0006f47c.c"
+    },
+    {
+      "symbol": "func_000b85b4",
+      "source": "src/lib/func_000b85b4.c"
+    },
+    {
+      "symbol": "func_000b8794",
+      "source": "src/lib/func_000b8794.c"
+    },
+    {
+      "symbol": "func_000b8d70",
+      "source": "src/lib/func_000b8d70.c"
+    },
+    {
+      "symbol": "func_00157EE8",
+      "source": "src/overlays/descriptor_09/func_00157EE8.c"
+    },
+    {
+      "symbol": "func_0017841C",
+      "source": "src/lib/func_0017841C.c"
+    },
+    {
+      "symbol": "func_001A4058",
+      "source": "src/lib/func_001A4058.c"
+    },
+    {
+      "symbol": "func_001BB720",
+      "source": "src/overlays/descriptor_18/func_001BB720.c"
+    },
+    {
+      "symbol": "func_001BB7C4",
+      "source": "src/overlays/descriptor_18/func_001BB7C4.c"
+    },
+    {
+      "symbol": "func_001EE548",
+      "source": "src/overlays/descriptor_15/func_001EE548.c"
+    },
+    {
+      "symbol": "func_002104AC",
+      "source": "src/overlays/descriptor_10/func_002104AC.c"
+    },
+    {
+      "symbol": "func_00211CE8",
+      "source": "src/overlays/descriptor_10/func_00211CE8.c"
+    },
+    {
+      "symbol": "func_00280460",
+      "source": "src/overlays/descriptor_16/func_00280460.c"
+    },
+    {
+      "symbol": "func_00286620",
+      "source": "src/overlays/descriptor_14/func_00286620.c"
+    },
+    {
+      "symbol": "func_0029C404",
+      "source": "src/lib/func_0029C404.c"
+    },
+    {
+      "symbol": "func_002A2610",
+      "source": "src/lib/func_002A2610.c"
+    },
+    {
+      "symbol": "func_002A2674",
+      "source": "src/lib/func_002A2674.c"
+    },
+    {
+      "symbol": "func_002A7010",
+      "source": "src/lib/func_002A7010.c"
     }
   ]
 }
